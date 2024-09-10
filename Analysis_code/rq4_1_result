@@ -1,0 +1,43 @@
+Table5 Results
+srp
+mirrorfairu	19	12	1
+naivebase	19	12	1
+tprp
+mirrorfairu	16	15	1
+naivebase	17	14	1
+fprp
+mirrorfairu	0	14	18
+naivebase	0	13	19
+sru
+mirrorfairu	1	31	0
+naivebase	24	6	2
+tpru
+mirrorfairu	1	31	0
+naivebase	22	9	1
+fpru
+mirrorfairu	0	31	1
+naivebase	1	7	24
+accuracy
+mirrorfairu	2	28	2
+naivebase	0	8	24
+recall
+mirrorfairu	7	22	3
+naivebase	12	8	12
+precision
+mirrorfairu	0	26	6
+naivebase	1	13	18
+f1score
+mirrorfairu	7	22	3
+naivebase	7	9	16
+mcc
+mirrorfairu	7	22	3
+naivebase	4	14	14
+spd
+mirrorfairu	1	15	16
+naivebase	19	9	4
+eod
+mirrorfairu	2	23	7
+naivebase	1	10	21
+aod
+mirrorfairu	1	19	12
+naivebase	2	12	18

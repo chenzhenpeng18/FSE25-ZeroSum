@@ -1,0 +1,41 @@
+Table6 Results
+sr1
+mirrorfairu	8	4	0
+tpr1
+mirrorfairu	8	4	0
+fpr1
+mirrorfairu	0	3	9
+sr2
+mirrorfairu	6	5	1
+tpr2
+mirrorfairu	4	7	1
+fpr2
+mirrorfairu	1	6	5
+sr3
+mirrorfairu	0	12	0
+tpr3
+mirrorfairu	0	12	0
+fpr3
+mirrorfairu	0	12	0
+sr4
+mirrorfairu	0	12	0
+tpr4
+mirrorfairu	0	12	0
+fpr4
+mirrorfairu	0	12	0
+accuracy
+mirrorfairu	2	9	1
+recall
+mirrorfairu	3	8	1
+precision
+mirrorfairu	0	8	4
+f1score
+mirrorfairu	2	8	2
+mcc
+mirrorfairu	2	9	1
+wcspd
+mirrorfairu	1	5	6
+wceod
+mirrorfairu	0	10	2
+wcaod
+mirrorfairu	1	6	5

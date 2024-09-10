@@ -1,0 +1,9 @@
+Table4 Results
+method	sr1in	sr1tie	sr1de	tpr1in	tpr1tie	tpr1de	fpr1in	fpr1tie	fpr1de	sr2in	sr2tie	sr2de	tpr2in	tpr2tie	tpr2de	fpr2in	fpr2tie	fpr2de	sr3in	sr3tie	sr3de	tpr3in	tpr3tie	tpr3de	fpr3in	fpr3tie	fpr3de	sr4in	sr4tie	sr4de	tpr4in	tpr4tie	tpr4de	fpr4in	fpr4tie	fpr4de
+adv	3	5	2	7	6	1	4	3	4	6	2	6	6	1	4	3	3	4	2	7	5	0	4	4
+rew	0	6	4	2	3	3	6	0	0	6	3	2	3	3	5	0	0	4	3	2	3	3	6	0
+eop	2	3	4	1	7	0	8	0	2	3	3	2	5	1	3	0	3	2	5	0	6	0	8	0
+fairsmote	4	8	4	2	5	2	10	0	4	7	3	2	6	2	8	0	4	5	3	2	3	2	10	0
+maat	4	4	3	5	6	4	9	1	4	4	3	5	4	3	6	1	4	4	3	5	5	4	9	1
+fairmask	0	8	2	3	3	0	8	0	0	7	1	2	3	0	5	0	0	7	1	2	3	1	6	0
+mirrorfair	2	7	4	5	8	2	12	0	2	6	4	4	8	2	12	0	2	8	4	4	6	1	12	0
