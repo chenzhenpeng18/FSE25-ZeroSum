@@ -1,6 +1,6 @@
-# Software Fairness Dilemma: Is Bias Mitigation a Zero-Sum Game?
+# [FSE'25] Software Fairness Dilemma: Is Bias Mitigation a Zero-Sum Game?
 
-Welcome to the homepage of our paper "Software Fairness Dilemma: Is Bias Mitigation a Zero-Sum Game?". The homepage contains data, scrips, and intermediate results used in this paper.
+Welcome to the homepage of our FSE'25 paper "Software Fairness Dilemma: Is Bias Mitigation a Zero-Sum Game?". The homepage contains data, scrips, and intermediate results used in this paper.
 
 ## Experimental environment
 
@@ -87,4 +87,14 @@ You can also replicate the results from scratch using the datasets provided abov
 
 
 * ```aif360.zip``` contains the scripts (provided by [Chen et al.](https://github.com/chenzhenpeng18/ICSE24-Multi-Attribute-Fairness) at ICSE 2024) of adapting REW, ADV, and EOP to make them applicable to multiple protected attributes.
-  
+
+## Citation
+Please consider citing the following paper when using our code or data.
+```
+@inproceedings{zpFSE2025,
+  title={Software Fairness Dilemma: Is Bias Mitigation a Zero-Sum Game?},
+  author={Zhenpeng Chen and Xinyue Li and Jie M. Zhang and Weisong Sun and Ying Xiao and Tianlin Li and Yiling Lou and Yang Liu},
+  booktitle={Proceedings of the ACM International Conference on the Foundations of Software Engineering, FSE 2025},
+  year={2025}
+}
+```
